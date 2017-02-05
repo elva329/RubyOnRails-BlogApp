@@ -1,3 +1,5 @@
-# blogapp
+# This is a blog application that built using Ruby on Rails.
 
-blogapp
+It covers following major functionalities.
+
+
