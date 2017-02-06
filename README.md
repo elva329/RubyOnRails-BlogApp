@@ -1,7 +1,7 @@
 # RubyOnRails-BlogApp
 This is a blog application that built using Ruby on Rails.
 
-# It covers following two major functionalities.
+# It covers following two major functionalities:
 
 1. CRUD artile
 2. CRUD comment
